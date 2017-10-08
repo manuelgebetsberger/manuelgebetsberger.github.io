@@ -4,7 +4,7 @@ title: Research
 ---
 
 <p align="center">
-<img src="images/synStudy.png" title="Calibration in terms of a PIT histogram which should be uniformly at 1 for all PIT bins">
+<img src="images/glaciarGrey.JPG" title="Fieldwork at Glaciar Grey in Torres del Paine National Park, Patagonia, Chile.">
 </p>
 
 My current research focuses on probabilistic weather forecasting. Instead of deterministic weather forecasts like
