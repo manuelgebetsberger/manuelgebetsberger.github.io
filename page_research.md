@@ -3,10 +3,6 @@ layout: page
 title: Research
 ---
 
-<p align="center">
-<img src="images/glaciarGrey.JPG" title="Fieldwork at Glaciar Grey in Torres del Paine National Park, Patagonia, Chile.">
-</p>
-
 My current research focuses on probabilistic weather forecasting. Instead of deterministic weather forecasts like
 **_tomorrorow at 12:00 it will have 15.7°C_**, probabilistic forecasts like **_tommorow at 12:00 there is a 80% chance to have temperatures between 14.8°C and 17.3°C_** should be communicated to the public. 
 
