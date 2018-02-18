@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+pic: glaciarGrey.JPG
 ---
 
 My current research focuses on probabilistic weather forecasting. Instead of deterministic weather forecasts like

@@ -3,6 +3,7 @@ layout: post
 title: "New Working Paper Online"
 date:   2017-11-27 
 categories: publications
+pic: PaineGrande_home.png
 ---
 Luckily I managed it to submit one of my favourite research topics I think which might be of general interest in the statistical downscaling community. Results are ready since more than one year, but there have always been other issues with higher priority in between.  
 Currently this work is getting reviewed, but the working paper is already [online][WP].
