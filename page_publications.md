@@ -6,13 +6,13 @@ pic: glaciarGrey.JPG
 
 
 # **Peer-reviewed articles**
-Gebetsberger, M., J. W. Messner, G. J. Mayr, and A. Zeileis, 2017: Fine-tuning non-homogeneous regression for probabilistic precipitation forecasts: Unanimous predictions, heavy tails, and link functions. _Mon. Wea. Rev._, **145(11)**, 4693--4708, [doi:10.1175/MWR-D-16-0388.1][DOI_2017_1].
+Gebetsberger, M., J. W. Messner, G. J. Mayr, and A. Zeileis, 2017: Fine-tuning non-homogeneous regression for probabilistic precipitation forecasts: Unanimous predictions, heavy tails, and link functions. _Mon. Wea. Rev._, **145(11)**, 4693--4708, [doi:10.1175/MWR-D-16-0388.1][DOI_2017_1]{:target="_blank"}.
 
 
 # **Working papers**
-Gebetsberger, M., J. W. Messner, G. J. Mayr, and A. Zeileis, 2017: Estimation methods for non-homogeneous regression models – Minimum continuous ranked probability score vs. maximum likelihood, _Working papers, Faculty of Economics and Statistics, University of Innsbruck_, [https://www2.uibk.ac.at/downloads/c4041030/wpaper/2017-23.pdf][WP_2017].
+Gebetsberger, M., J. W. Messner, G. J. Mayr, and A. Zeileis, 2017: Estimation methods for non-homogeneous regression models – Minimum continuous ranked probability score vs. maximum likelihood, _Working papers, Faculty of Economics and Statistics, University of Innsbruck_, [https://www2.uibk.ac.at/downloads/c4041030/wpaper/2017-23.pdf][WP_2017]{:target="_blank"}.
 
-Gebetsberger, M., J. W. Messner, G. J. Mayr, and A. Zeileis, 2016: Tricks for improving non-homogeneous regression for probabilistic precipitation forecasts: Perfect predictions, heavy tails, and link functions, _Working papers, Faculty of Economics and Statistics, University of Innsbruck_, [http://EconPapers.repec.org/RePEc:inn:wpaper:2016-28][WP_2016].
+Gebetsberger, M., J. W. Messner, G. J. Mayr, and A. Zeileis, 2016: Tricks for improving non-homogeneous regression for probabilistic precipitation forecasts: Perfect predictions, heavy tails, and link functions, _Working papers, Faculty of Economics and Statistics, University of Innsbruck_, [http://EconPapers.repec.org/RePEc:inn:wpaper:2016-28][WP_2016]{:target="_blank"}.
 
 
 # **Others**

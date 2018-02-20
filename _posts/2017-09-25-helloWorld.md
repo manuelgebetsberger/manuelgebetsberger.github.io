@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2017-09-25 13:10:0 +0200
+date:   2017-09-25 
 categories: jekyll update
 pic: PaineGrande_home.png
 ---

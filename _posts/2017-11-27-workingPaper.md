@@ -6,10 +6,10 @@ categories: publications
 pic: PaineGrande_home.png
 ---
 Luckily I managed it to submit one of my favourite research topics I think which might be of general interest in the statistical downscaling community. Results are ready since more than one year, but there have always been other issues with higher priority in between.  
-Currently this work is getting reviewed, but the working paper is already [online][WP].
+Currently this work is getting reviewed, but the working paper is already [online][WP]{:target="_blank"}.
 
 
 Gebetsberger, M., J. Messner, G. Mayr, and A. Zeileis, 2017: Estimation methods for non-homogeneous
-regression models: Minimum continuous ranked probability score vs. maximum likelihood. _Mon. Wea. Rev._, **under revision**, [WorkingPaper][WP].
+regression models: Minimum continuous ranked probability score vs. maximum likelihood. _Mon. Wea. Rev._, **under revision**, [WorkingPaper][WP]{:target="_blank"}.
 
 [WP]: https://www2.uibk.ac.at/downloads/c4041030/wpaper/2017-23.pdf

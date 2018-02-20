@@ -9,6 +9,6 @@ My current research focuses on probabilistic weather forecasting. Instead of det
 
 This is an important difference, since we cannot predict the future in a determinsitic way. Different error sources exist which have to be considered. Most importantly, the atmosphere has a chaotic behaviour where small changes in the current state can lead to large differences in future states. This implies that the knowledge about the current state of the atmosphere must be extremely accurate.  As long as this is not the case, weather forecasts have to address its forecast uncertainty.
 
-The definition and evaluation of probabilistic forecasts is pretty clear. How to generate good probabilistic forecasts is not straight forward, especially not in topographically complex environments. And this is part of my ongoing research.
+The definition and evaluation of probabilistic forecasts is pretty clear. How to generate good probabilistic forecasts is not straight forward, especially not in topographically complex environments. And this is part of my ongoing research, where I am mostly working with statistical post-processing methods for correcting the output of numerical weather prediction models.
 
 
